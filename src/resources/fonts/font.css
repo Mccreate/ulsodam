@@ -1,5 +1,17 @@
 @font-face {
-    font-family: 'NS Bold';
-    font-weight: bold;
-    src: url('./Noto Sans/NotoSansKR-Bold.otf') format('opentype');
+    font-family: 'NotoSansBold';
+    font-weight: 400;
+    font-style:bold;
+    src: url('./NotoSans/NotoSansKR-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'NotoSansRegular';
+    font-weight: 400;
+    font-style:normal;
+    src: url('./NotoSans/NotoSansKR-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('./GmarketSans/GmarketSansBold.woff') format('woff');
 }
