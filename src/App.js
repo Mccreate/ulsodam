@@ -36,9 +36,7 @@ const TitleDiv = styled.div`
   margin-top: 25px;
   margin-bottom: 10px;
   text-align: center;
-  img {
-    margin-left: 40px;
-  }
+
   span {
     font-family: "GmarketSansBold";
     font-size: 1.0625rem;
